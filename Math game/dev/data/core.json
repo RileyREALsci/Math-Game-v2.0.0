@@ -1,0 +1,233 @@
+{
+    "bots": {},
+    "users": {},
+    "rewards": {
+        "two_day_streak": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/commet.png",
+            "title": "Two Day Streak",
+            "description": "Play at least one game two days in a row",
+            "comment": "You have played two days in a row, good for you {NAME}",            
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "three_day_streak": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/commet.png",
+            "title": "Three Day Streak",
+            "description": "Play at least one game three days in a row",
+            "comment": "You have played three days in a row, almost impressive",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "four_day_sreak": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/large_commet.png",
+            "title": "Four Day Streak",
+            "description": "Play at least one game four days in a row",
+            "comment": "You have played four days in a row, this is where most people quit, but {NAME} is better then that",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "five_day_streak": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/large_commet.png",
+            "title": "Five Day Streak",
+            "description": "Play at least one game five days in a row",
+            "comment": "You are better than the majority, {NAME}, venturing beond the curve.",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "ten_day_streak": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/silver_core.png",
+            "title": "Ten Day Streak",
+            "description": "Play at least one game ten days in a row",
+            "comment": "you may be developing a problematic addiction to math at this point. but I encorage it ",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "twenty_day_streak": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/gold_core.png",
+            "title": "twenty Day Streak",
+            "description": "Play at least one game twenty days in a row NO WAY!",
+            "comment": "What if I told you that you're a math addict... One must be to win this award.",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "one_accuracy_streak_elementry_addition": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/commet.png",
+            "title": "Learning addition",
+            "comment": "You got 100% of questions correct for elementry addition",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "one_accuracy_streak_medium_addition": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/large_commet.png",
+            "title": "developing addition",
+            "comment": "You got 100% of questions correct for medium addition",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "three_accuracy_streak_medium_addition": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/bronze_commet.png",
+            "title": "developed addition",
+            "comment": "You got 100% of questions correct for three medium addition exrcises impressive",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "one_accuracy_streak_expert_addition": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/large_commet.png",
+            "title": "expert additionest",
+            "comment": "You got 100% of questions correct for expert addition exrcises you're a real additionest",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "one_accuracy_streak_impossible_addition": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/bronze_commet.png",
+            "title": "Novice Calculator",
+            "comment": "You got 100% of questions correct for impossible addition you have impressive focus",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "three_accuracy_streak_impssible_additon": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/silver_core.png",
+            "title": "Sum smith",
+            "comment": "now now, you must be using a calculator because if you're not that's super human.",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+               }
+            }
+        },
+        "three_accuracy_streak_ridiculous_additon": {
+            "active": true,
+            "complete": false,
+            "image": "data/images/rewards/gold_core.png",
+            "title": "Sum God",
+            "comment": "No body is winning this award so I'll just leave this blank, COMMENTS HERE: ",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+                }
+            }
+        }
+    },
+    "milestones": {
+        "addition": {
+            "image": "data/images/milestones/addition.png",
+            "title": "Addition",
+            "steps": {
+		"tier1": 5,
+		"tier2": 5,
+		"tier3": 5,
+		"tier4": 5,
+		"tier5": 5,
+		"tier6": 5,
+		"tier7": 5,
+		"tier8": 5,
+		"tier9": 5,
+		"tier10": 5
+
+		
+	    }
+        }
+ 	"subtraction": {
+	    "image": "data/images/milestones/subtraction.png",
+	    "title": "Subtraction"
+
+	}
+    },
+    "events": {
+        "three_accuracy_streak_ridiculous_additon": {
+            "image": "data/images/events/",
+            "title": "Sum God",
+            "time_sensitivity": {
+               "start": {
+                    "week": 0,
+                    "month": 0,
+                    "year": 0
+                }
+            }
+        }
+    },
+    "themes": {}
+}

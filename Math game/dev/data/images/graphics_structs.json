@@ -1,0 +1,78 @@
+{
+    "background": {
+        "count": 16,
+        "refrence": "background",
+        "background1": "data/images/background1.png",
+        "background2": "data/images/background2.png",
+        "background3": "data/images/background3.png",
+        "background4": "data/images/background4.png",
+        "background5": "data/images/background5.png",
+        "background6": "data/images/background6.png",
+        "background7": "data/images/background7.png",
+        "background8": "data/images/background8.png",
+        "background9": "data/images/background9.png",
+        "background10": "data/images/background10.png",
+        "background11": "data/images/background11.png",
+        "background12": "data/images/background12.png",
+        "background13": "data/images/background13.png",
+        "background14": "data/images/background14.png",
+        "background15": "data/images/background15.png",
+        "background16": "data/images/background16.png"
+    },
+    "sprites": {
+        "head": {
+            "count": 5,
+            "refrence": "head",
+            "head1": "data/images/sprites/head_very_light_skin.png",
+            "head2": "data/images/sprites/head_light_skin.png",
+            "head3": "data/images/sprites/head_medium_skin.png",
+            "head4": "data/images/sprites/head_dark_skin.png",
+            "head5": "data/images/sprites/head_very_dark_skin.png"
+        },
+	"mouth": {
+	    "count": 2,
+	    "refrence": "mouth",
+	    "mouth1": ""
+	},
+	"nose": {
+	    "count": 5,
+	    "refrence": "nose",
+	    "nose1": "data/images/sprites/nose1.png",
+	    "nose2": "data/images/sprites/nose2.png",
+	    "nose3": "data/images/sprites/nose3.png",
+	    "nose4": "data/images/sprites/nose4.png"
+	},
+	"hair": {
+	    "count": 10,
+	    "refrence": "hair",
+	    "hair1": "data/images/sprites/hair1.png",
+	    "hair2": "data/images/sprites/hair2.png",
+	    "hair3": "data/images/sprites/hair3.png",
+	    "hair4": "data/images/sprites/hair4.png",
+	    "hair5": "data/images/sprites/hair5.png",
+	    "hair6": "data/images/sprites/hair6.png",
+	    "hair7": "data/images/sprites/hair7.png",
+	    "hair8": "data/images/sprites/hair8.png",
+	    "hair9": "data/images/sprites/hair9.png",
+	    "hair10": "data/images/sprites/hair10.png"
+	},
+	"eye": {
+	    "count": "10",
+	    "refrence": "eye"
+	}
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
